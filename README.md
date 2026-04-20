@@ -1,18 +1,42 @@
-# React + Vite
+Portfolio Web - Joshua
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portafolio personal desarrollado con React y Vite, donde presento algunos de los proyectos que he construido como desarrollador web.
 
-Currently, two official plugins are available:
+Sobre el proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este portafolio está diseñado como una aplicación moderna de una sola página (SPA), con navegación por secciones y animaciones suaves.
 
-## React Compiler
+Incluye:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Presentación personal
+- Sección de proyectos con demos y código
+- Habilidades técnicas
+- Formulario de contacto funcional (envío de correos)
 
-Note: This will impact Vite dev & build performances.
+---
+Proyectos destacados
 
-## Expanding the ESLint configuration
+### 🔹 Landing Inmobiliaria de Captación de Leads
+Landing page enfocada en generación de leads para bienes raíces, con formulario funcional.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔹 Auth Dashboard SaaS
+Sistema de autenticación con login, registro y rutas protegidas que simula el flujo de acceso en aplicaciones SaaS.
+
+### 🔹 CRM Dashboard de Leads
+Dashboard tipo CRM para gestionar prospectos y visualizar estados comerciales.
+
+---
+
+Tecnologías utilizadas
+
+- React
+- Vite
+- JavaScript
+- HTML / CSS
+- React Router
+
+
+
+📩 Contacto
+
+📧 xigo.mx@gmail.com  
